@@ -83,6 +83,7 @@ header h3{
     background-color: rgb(137, 166, 192);
     border: none;
     border-radius: 100%;
+    cursor: pointer;
 }
 
 .chat button i{
